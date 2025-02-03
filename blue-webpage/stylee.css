@@ -1,0 +1,12 @@
+@media (max-width: 768px) {
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    .color-swatch {
+        display: block;
+        width: 80%;
+        margin: 10px auto;
+    }
+}
